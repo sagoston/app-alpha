@@ -1,0 +1,3 @@
+[submodule "external/mathlib"]
+	path = external/mathlib
+	url = https://github.com/sagoston/mathlib.git
